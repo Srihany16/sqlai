@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 🔗 **Live demo:** [sqlai-xi.vercel.app](https://sqlai-xi.vercel.app/)
+
 📑 **Project presentation:** [docs/SqlAI-DBMS-Project.pdf](docs/SqlAI-DBMS-Project.pdf)
 
 ---
